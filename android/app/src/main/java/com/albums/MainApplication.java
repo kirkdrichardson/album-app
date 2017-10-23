@@ -1,4 +1,4 @@
-package com.hello;
+package com.albums;
 
 import android.app.Application;
 
